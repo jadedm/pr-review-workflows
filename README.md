@@ -78,7 +78,7 @@ About five minutes for both reviewers.
 
 4. Open a pull request with both files. Both reviewers run on it, and on every pull request after it.
 
-`stack` picks a prompt from [`prompts/`](prompts): `python`, `nestjs-fastify-drizzle`, `nextjs-turborepo-shadcn`, `expo-router-nativewind` or `apps-script`. Comment `@claude` or `@gemini` on a pull request to run that reviewer again.
+`stack` picks a prompt from [`prompts/`](prompts): `python`, `nestjs-fastify-drizzle`, `nextjs-turborepo-shadcn`, `expo-router-nativewind`, `apps-script` or `terraform-gcp`. Comment `@claude` or `@gemini` on a pull request to run that reviewer again.
 
 ## What it does differently
 
